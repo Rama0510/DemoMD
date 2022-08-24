@@ -7,7 +7,7 @@ and this is ***bold italics***
 
 Take me to (apple web site)(http://www.apple.com)
 
-we have an image ![marvel thor](01 thor.jpg)
+we have an image ![marvel thor](01thor.jpg)
 
 a new paragraph<br>with two lines.
 #### smallest
