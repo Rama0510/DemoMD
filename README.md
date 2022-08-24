@@ -3,7 +3,10 @@ Demonstration on Mark down
 ### Style sime text
 this is *italics* and this is __bold__
 and this is ***bold italics***
+--------
+
 Take me to (apple web site)(http://www.apple.com)
+
 a new paragraph<br>with two lines.
 #### smallest
 also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.also in a new paragraph.
